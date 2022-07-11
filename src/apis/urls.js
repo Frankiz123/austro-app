@@ -1,0 +1,10 @@
+export const BASE_URL = "https://thinkncode.com/austroapp/wp-json";
+export const BASE_URL2 = "https://thinkncode.com/austroapp/wp-json";
+export const LOGIN = "/jwt-auth/v1/token";
+export const MERCHANTS = "/wp/v2/distributor";
+export const ITEMS = "/wp/v2/items";
+export const MEDICAL_STORE = "/wp/v2/medcal_store";
+export const COMPLETE_ORDER = "/wp/v2/austroorders";
+export const GET_ORDERS = "/wp/v2/austroorders";
+export const SEND_LOCATION = "/wp/v2/tracking";
+export const GET_JOURNEY = "/wp/v2/tracking";
